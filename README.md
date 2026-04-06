@@ -33,7 +33,7 @@ No technical experience is required to use the app.
 2. Enter your email and password  
 3. Tap **Sign Up** or **Log In**
 
-![Login Screen](login.png)
+![Login Screen](loginscreen.png)
 
 ---
 
@@ -42,7 +42,7 @@ No technical experience is required to use the app.
 2. Select your career interest  
 3. Tap **Complete Profile**
 
-![Onboarding Screen](onboarding.png)
+![Onboarding Screen](onboardingscreen.png)
 
 ---
 
@@ -53,7 +53,7 @@ No technical experience is required to use the app.
 
 Tap **Update Profile** to save.
 
-![Profile Screen](profile.png)
+![Profile Screen](profilescreen.png)
 
 ---
 
@@ -71,7 +71,7 @@ Prepare for meetings using AI-generated insights.
    - Additional details  
 3. Tap **Generate Meeting Prep**
 
-![Meeting Prep](meeting.png)
+![Meeting Prep](meetingscreen.png)
 
 ---
 
@@ -84,7 +84,7 @@ Quickly generate professional replies to emails.
 2. Enter context or select an option  
 3. Tap **Generate Email Response**
 
-![Email Response](email.png)
+![Email Response](emailresponsescreen.png)
 
 ---
 
@@ -99,7 +99,7 @@ Create follow-up emails after meetings.
    - Interviewer name  
 3. Tap **Generate Follow-up Email**
 
-![Follow Up](followup.png)
+![Follow Up](followupemail.png)
 
 ---
 
@@ -110,7 +110,7 @@ Users can leave feedback after using the app.
 - Rate your experience  
 - Submit feedback  
 
-![Review Screen](review.png)
+![Review Screen](reviewwidget.png)
 
 ---
 
