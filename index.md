@@ -24,8 +24,7 @@ AI-Powered Professional Prep Assistant
   <img src="aipage.png" width="200"/>
   <img src="professionalprep.png" width="200"/>
   <img src="emailprep.png" width="200"/>
-  <img src="email.png" width="200"/>
-  <img src="expanded%20email.png" width="200"/>
+  
 </p>
 
 ---
