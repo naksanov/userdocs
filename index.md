@@ -1,168 +1,119 @@
-# LinkUp User Guide
+<p align="center">
+  <img src="logo.png" width="120"/>
+</p>
 
-## App Overview
+<h1 align="center">LinkUp AI</h1>
 
-LinkUp is an AI-powered productivity app designed to help users prepare for meetings, generate professional email responses, and create follow-up messages quickly and efficiently.
-
-Built for students, professionals, and job seekers, LinkUp simplifies communication and preparation by using AI to generate structured and high-quality content in seconds.
-
-### Key Features
-- AI-generated meeting preparation
-- Instant email response generation
-- Automated follow-up emails
-- Simple onboarding and profile setup
-- Clean and easy-to-use interface
+<p align="center">
+AI-Powered Professional Prep Assistant
+</p>
 
 ---
 
-## Who This App Is For
-
-LinkUp is designed for:
-- Students preparing for interviews
-- Professionals attending meetings
-- Users who want quick and polished communication
-
-No technical experience is required to use the app.
+<p align="center">
+  <button style="background-color:#01875f;color:white;padding:12px 28px;border:none;border-radius:8px;font-size:16px;">
+    Install
+  </button>
+</p>
 
 ---
 
-## Getting Started
+## Screenshots
 
-### Step 1: Sign Up / Log In
-1. Open the app  
-2. Enter your email and password  
-3. Tap **Sign Up** or **Log In**
-
-![Login Screen](loginscreen.png)
-
----
-
-### Step 2: Complete Onboarding
-1. Enter your name  
-2. Select your career interest  
-3. Tap **Complete Profile**
-
-![Onboarding Screen](onboardingscreen.png)
+<p align="center">
+  <img src="aipage.png" width="200"/>
+  <img src="basemeetingprep.png" width="200"/>
+  <img src="expanded%20meeting.png" width="200"/>
+  <img src="email.png" width="200"/>
+  <img src="expanded%20email.png" width="200"/>
+</p>
 
 ---
 
-### Step 3: Set Up Your Profile
-- Add or edit your name  
-- Update your career interest  
-- Upload a profile picture  
+## About this app
 
-Tap **Update Profile** to save.
+LinkUp is an AI-powered productivity app that helps you prepare for interviews, meetings, and professional communication in seconds.
 
-![Profile Screen](profilescreen.png)
+Instead of overthinking what to say, LinkUp generates structured, high-quality responses instantly.
 
----
+Use it to:
+- Prepare for interviews and meetings  
+- Generate professional email responses  
+- Create follow-up messages  
 
-## How to Use the App
-
-### Meeting Preparation
-
-Prepare for meetings using AI-generated insights.
-
-#### Steps:
-1. Navigate to **Meeting Prep**
-2. Enter:
-   - Interviewer name  
-   - Company name  
-   - Additional details  
-3. Tap **Generate Meeting Prep**
-
-![Meeting Prep](meetingscreen.png)
+All inside a clean and simple interface.
 
 ---
 
-### Email Responses
+## Try LinkUp
 
-Quickly generate professional replies to emails.
-
-#### Steps:
-1. Go to **Email Responses**
-2. Enter context or select an option  
-3. Tap **Generate Email Response**
-
-![Email Response](emailresponsescreen.png)
+<p align="center">
+<iframe src="YOUR_FLUTTERFLOW_WEB_APP_LINK" width="100%" height="650" style="border-radius:12px;border:1px solid #ddd;"></iframe>
+</p>
 
 ---
 
-### Follow-Up Emails
+## Features
 
-Create follow-up emails after meetings.
+### Smart Meeting Prep
+Generate talking points, questions, and insights for interviews and meetings.
 
-#### Steps:
-1. Open **Follow-Up Email**
-2. Enter:
-   - Company name  
-   - Interviewer name  
-3. Tap **Generate Follow-up Email**
+### Email Generation
+Create professional email responses instantly.
 
-![Follow Up](followupemail.png)
+### Follow-Up Messages
+Send polished follow-ups after meetings or interviews.
 
----
-
-### Review Feature
-
-Users can leave feedback after using the app.
-
-- Rate your experience  
-- Submit feedback  
-
-![Review Screen](reviewwidget.png)
+### Simple Profile Setup
+Quick onboarding with resume upload and career interests.
 
 ---
 
-## Full App Walkthrough
+## Who it's for
 
-1. User logs in or signs up  
-2. Completes onboarding  
-3. Sets up profile  
-4. Accesses main tools:
-   - Meeting Prep  
-   - Email Responses  
-   - Follow-Up Emails  
-5. Inputs information  
-6. Generates AI content  
-7. Reviews and uses results  
+- Students preparing for internships  
+- Job seekers  
+- Professionals in meetings  
+- Anyone who wants better communication fast  
 
 ---
 
-## Navigation Overview
+## User Experience
 
-- **Login Screen** → Access your account  
-- **Onboarding Screen** → Enter basic info  
-- **Profile Screen** → Manage user data  
-- **Main Feature Screens** → Use AI tools  
-- **Review Screen** → Provide feedback  
+<p align="center">
+  <img src="signuplogin.png" width="200"/>
+  <img src="profile.png" width="200"/>
+  <img src="npsquestion.png" width="200"/>
+</p>
 
 ---
 
-## Tips for Best Results
+## How it works
 
-- Enter detailed information for better AI output  
-- Use follow-up emails after every meeting  
+1. Sign up or log in  
+2. Complete your profile  
+3. Choose a feature (Meeting Prep or Email Prep)  
+4. Enter details  
+5. Generate AI response  
+6. Copy and use  
+
+---
+
+## Tips
+
+- Be specific with inputs for better results  
+- Review AI responses before sending  
+- Use follow-ups after meetings  
 - Keep your profile updated  
-
----
-
-## Troubleshooting
-
-**App not generating results**
-- Check internet connection  
-- Make sure all fields are filled  
-
-**Login issues**
-- Verify credentials  
-- Reset password if needed  
 
 ---
 
 ## Support
 
-If you experience issues, contact your development team or course support resources.
+For issues or questions, contact the LinkUp development team.
 
 ---
 
-This user documentation provides a complete walkthrough of LinkUp, helping users understand how to navigate and use all major features effectively.
+## 7. Final App Website Link
+
+https://your-linkup-app-site.com
