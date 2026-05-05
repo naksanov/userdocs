@@ -44,14 +44,6 @@ All inside a clean and simple interface.
 
 ---
 
-## Try LinkUp
-
-<p align="center">
-<iframe src="YOUR_FLUTTERFLOW_WEB_APP_LINK" width="100%" height="650" style="border-radius:12px;border:1px solid #ddd;"></iframe>
-</p>
-
----
-
 ## Features
 
 ### Smart Meeting Prep
